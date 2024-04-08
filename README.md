@@ -35,7 +35,7 @@ Registeration Number :212221040070
 */
 ```
 
-###Activity_main.xml:
+### Activity_main.xml:
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -66,7 +66,7 @@ Registeration Number :212221040070
 
 </RelativeLayout>
 
-Activity_main2.xml:
+### Activity_main2.xml:
 
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -86,7 +86,7 @@ Activity_main2.xml:
 
 </RelativeLayout>
 
-MainActivity.java:
+### MainActivity.java:
 
 package com.example.explicitintent;
 import androidx.appcompat.app.AppCompatActivity;
@@ -116,7 +116,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-Main Activity2.java:
+### Main Activity2.java:
 package com.example.explicitintent;
 
 import androidx.appcompat.app.AppCompatActivity;
